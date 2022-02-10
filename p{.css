@@ -1,0 +1,20 @@
+p{
+    font-size: 18px;
+}
+img{
+    border-radius: 40%;
+}
+li{
+    font-size: 20px;
+}
+th{
+    box-align: center;
+    font-size: 20px;
+}
+td{
+    box-align: center; 
+    font-size: 20px;
+}
+hr{
+    color: brown;
+}
